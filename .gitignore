@@ -1,0 +1,6 @@
+
+operations.log
+*.pyc
+__pycache__/
+test_env*/
+.vscode/
